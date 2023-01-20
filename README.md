@@ -21,7 +21,7 @@ Once the plugin is installed:
 
 ## Badges
 
-![Jenkins tests](https://img.shields.io/jenkins/tests?compact_message&failed_label=failed&jobUrl=https%3A%2F%2Fjenkins.sqlalchemy.org%2Fjob%2Falembic_gerrit&label=VSCode%20Reader&logo=IntellijIdea&passed_label=passed&skipped_label=skipped&style=for-the-badge)
+![Jenkins tests](https://img.shields.io/jenkins/tests?compact_message&failed_label=failed&jobUrl=https%3A%2F%2Fjenkins.sqlalchemy.org%2Fjob%2Falembic_gerrit&label=VSCode%20Reader&logo=IntellijIdea&passed_label=passed&skipped_label=skipped&style=for-the-badge)  
 ![GitHub](https://img.shields.io/github/license/skogrine/VSCodeReader?label=%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80&logo=intellijidea&style=for-the-badge)
 ## Authors
 
